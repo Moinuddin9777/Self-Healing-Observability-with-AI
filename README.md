@@ -1,5 +1,4 @@
-That’s a brilliant tagline, boss 😎 — **“Let the DevOps Guy Sleep”** instantly nails the mission and tone.
-Here’s a **complete open-source README** written in a way that feels engineering-first, forward-looking, and invites contributors to build the next-gen *self-healing observability framework*.
+**This is an idea that I got and I thought to keep it on the open-source to invite more brains to work on it**
 
 ---
 
@@ -130,4 +129,3 @@ MIT License — open for all to learn, build, and improve.
 
 ---
 
-Would you like me to add a **“docs/architecture.md”** next that explains how contributors can structure their modules (AI engine, remediation engine, feedback trainer) — so this becomes contribution-ready from day one?
